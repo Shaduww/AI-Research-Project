@@ -61,7 +61,7 @@ This project was built using:
 ## 🚀 How to Run the Notebook
 
 1. Download the notebook:  
-   `wine_quality_project_full.ipynb`
+   `FinalAI_YoussefA.ipynb`
 
 2. Get the dataset (`winequality-red.csv`) from the UCI Machine Learning Repository.
 
